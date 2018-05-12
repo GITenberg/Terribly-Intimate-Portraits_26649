@@ -1,0 +1,43 @@
+_repo: Terribly-Intimate-Portraits_26649
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Loraine, Lorn
+    alias: Macnaughtan, Lorn
+    deathdate: 1967
+    gutenberg_agent_id: '32148'
+    url: http://www.gutenberg.org/2009/agents/32148
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coward, Noel
+    aliases:
+    - Coward, Noel Pierce, Sir
+    - Coward, Noël
+    birthdate: 1899
+    deathdate: 1973
+    gutenberg_agent_id: '32147'
+    url: http://www.gutenberg.org/2009/agents/32147
+    wikipedia: http://en.wikipedia.org/wiki/No%C3%ABl_Coward
+description: ''
+gutenberg_issued: '2008-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PR'
+tableOfContents: My American diary -- Julie de Poopinac -- Madcap Moll, Eighth Duchess
+  of Wapping -- E. Maxwell Snurge, an intimate study -- Bianca di Pianno-Forti --
+  Sarah, Lady Tunnell-Penge ("Winsome Sal") -- Jabez Puffwater -- Furstin Lieberwurst
+  zu Schweinen-Kalber -- Jake D'Annunzio Spout -- Donna Isabella Angelica y Bananas
+  -- Maggie McWhistle -- The education of Rupert Plinge -- Anna Podd -- Sophie, the
+  uncrowned queen of Henry VIII -- "La Bibi" -- Ah! Ah! Queen of the Rude Islands.
+title: Terribly Intimate Portraits
+url: http://www.gutenberg.org/ebooks/26649
